@@ -2,3 +2,6 @@
 listpowerfiles*
 *.o
 *.log
+*.png
+*.pdf
+
