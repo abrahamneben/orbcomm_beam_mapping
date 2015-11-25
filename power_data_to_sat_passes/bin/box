@@ -1,0 +1,6 @@
+#!/bin/bash
+ 
+# copy to the dropbox
+
+cp "$@" ~/Dropbox/twilight_mba
+

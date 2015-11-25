@@ -1,0 +1,1 @@
+scp /export/data_2/aneben/compositeZ02/*.png abrahamn@24.60.201.17:/Users/abrahamn/satcal/oct21/pass_plots/

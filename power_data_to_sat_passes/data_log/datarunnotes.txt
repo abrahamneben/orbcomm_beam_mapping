@@ -1,0 +1,10 @@
+phase2 includes 2 good runs of zenith data with the added attenuation I put in in April at Green Bank, after Pat put it the replacement beamformer
+
+phase3 is the data taken after Rich installed his new DAQ system, the old one had a crashing problem
+ - zenith
+	should be discarded, one of the TLE files had an error
+ - zenith2
+	data mostly looks good
+ - E04S01
+	
+

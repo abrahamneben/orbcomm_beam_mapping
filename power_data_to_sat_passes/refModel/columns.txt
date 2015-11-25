@@ -1,0 +1,12 @@
+   The data are give with 1 degree resolution.  The columns are as follows:
+
+Theta [deg.]    - theta coordinate of direction
+Phi [deg.]     - phi coordinate of direction
+Dir.Abs [dBi  ]    - response from SQRT(Eth^2 + Ephi^2) in given direction
+Dir.Th [dBi  ]    - response to linear pol (Eth) in given direction
+Dir.Ph [dBi  ]    - response to linear pol (Ephi) in given direction
+Left [dBi  ]     - response to left-hand circular in given direction
+Right [dBi  ] - response to right-hand circular in given direction
+
+
+-- these descriptions are from Rich
